@@ -14,8 +14,9 @@ def main():
 	new_page_cmd = subparsers.add_parser("newpage", aliases=["np"])
 	new_page_cmd.add_argument("title")
 	new_page_cmd.add_argument("--layout", "-l", default="page")
-	new_page_cmd.add_argument("--permalink", "-p", action="store_true")
 	new_page_cmd.add_argument("--filetype", "-f", choices=["md", "html"], default="md")
+	new_page_cmd.add_argument("--permalink", "-p", action="store_true")
+	new_page_cmd.add_argument("--directory", "-d")
 	new_page_cmd.set_defaults(func=new_page)
 
 	new_blog_cmd = subparsers.add_parser("newblog", aliases=["nb"])
@@ -48,10 +49,15 @@ def new_page(args):
 		'title': args.title
 	}
 
+	if args.directory:
+		file_path = "%s/%s.%s" % (args.directory, filename, args.filetype)
+	else:
+		file_path = "%s.%s" % (filename, args.filetype)
+
 	if args.permalink:
 		file_args['permalink'] = "/%s" % filename
 
-	write_file("%s.%s" % (filename, args.filetype), **file_args)
+	write_file(file_path, **file_args)
 
 def new_blog_post(args):
 	datestr = time.strftime("%Y-%m-%d")
