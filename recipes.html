@@ -1,0 +1,19 @@
+---
+layout: page
+title: Recipes
+---
+
+<ul class="post-list">
+{%- for page in site.pages -%}
+  {%- if page.layout == "recipe" -%}
+    <li>
+      <h3>
+        <a class="post-link" href="{{ page.url }}">
+          {{ page.title | escape }}
+        </a>
+      </h3>
+      {{page.content | truncatewords: 10}}
+    </li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>
