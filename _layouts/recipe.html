@@ -8,6 +8,15 @@ layout: default
   </header>
 
   <div class="post-content">
+    <h4>Related Posts</h4>
+    <ul>
+      {%- for post in site.posts -%}
+        {%- if post.recipes contains page.recipe_id -%}
+          <li><a href="{{post.url | relative_url}}">{{post.title}}</a></li>
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
     <h4>Ingredients</h4>
     <ul>
     {%- for ingredient in page.ingredients -%}
@@ -22,5 +31,4 @@ layout: default
     </ol>
     {{ content }}
   </div>
-
 </article>

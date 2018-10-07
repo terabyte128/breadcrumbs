@@ -15,9 +15,10 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
+  letter-spacing: -0.25px;
   margin-bottom: 0;
   float: left;
+  font-family: $header-font-family;
 
   &,
   &:visited {
@@ -40,6 +41,7 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    font-family: $header-font-family;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
