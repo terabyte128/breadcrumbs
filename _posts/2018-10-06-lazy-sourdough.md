@@ -7,6 +7,8 @@ recipes:
 date: 2018-10-06 23:35:32 +0200
 ---
 
+### Introduction
+
 Today is my first attempt to make "lazy sourdough" bread, which is a recipe given to me by my professor on this trip. It involves no kneading, instead letting time do all of the work of leavening the bread. She adapted it from a New York Times post on how to make regular bread (i.e. using commercial yeast) using the same method.
 
 My understanding of kneading, based on [this article](https://www.thespruceeats.com/the-science-of-kneading-dough-1328690), is that it helps to line up the gluten proteins and strengthens the dough. However, the author also notes that extended periods of fermentation have a similar effect by breaking up proteins and causing the dough to rise. This recipe involves a 12 hour (!!) fermentation process.
