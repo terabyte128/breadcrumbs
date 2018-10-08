@@ -27,7 +27,7 @@ Put the pot and lid in which you plan to bake the bread into an oven and pre-hea
 
 ### Forming The Loaf
 
-While the pots are heating, form the loaves. Sprinkle your surface with LOTS of flour. Dump the dough in the middle and carefully fold the four corners into the center. The dough will be too sticky to knead, so handle it minimally with well-floured hands. The whole ball of dough should be well dusted with flour. Flip it over, folded side down, and put it on a piece of saran wrap and let it rest for a few minutes.
+While the pots are heating, form the loaves. Sprinkle your surface with LOTS of flour. Dump the dough in the middle and carefully fold the four corners into the center. The dough will be too sticky to knead, so handle it minimally with well-floured hands. The whole ball of dough should be well dusted with flour. Flip it over, folded side down, and put it on a piece of saran wrap and let it rest for a few minutes. You can use the same piece of saran wrap that you used earlier to cover the bowl!
 
 ### Baking
 
