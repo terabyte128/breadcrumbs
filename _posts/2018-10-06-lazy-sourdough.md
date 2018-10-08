@@ -7,10 +7,6 @@ recipes:
 date: 2018-10-06 23:35:32 +0200
 ---
 
-### Update: Flour Types
-
-For this bread, I used Italian 00 flour, which I later learned is the softest and finest variety of flour and is not really intended for use in bread. This was likely a factor in the bread's poor rising.
-
 ### Introduction
 
 Today is my first attempt to make "lazy sourdough" bread, which is a recipe given to me by my professor on this trip. It involves no kneading, instead letting time do all of the work of leavening the bread. She adapted it from a New York Times post on how to make regular bread (i.e. using commercial yeast) using the same method.
