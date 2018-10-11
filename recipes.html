@@ -7,11 +7,14 @@ title: Recipes
 {%- for page in site.pages -%}
   {%- if page.layout == "recipe" -%}
     <li>
-      <h4>
+      <h4 style="margin-bottom: 0px;">
         <a class="post-link" href="{{ page.url }}">
           {{ page.title | escape }}
         </a>
       </h4>
+      {%- if page.tagline -%}
+      {{page.tagline}}
+      {%- endif -%}
     </li>
   {%- endif -%}
 {%- endfor -%}

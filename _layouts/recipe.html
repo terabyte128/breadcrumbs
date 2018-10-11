@@ -8,19 +8,28 @@ layout: default
     {% if page.subtitle %}
     <h2 style="margin-top: -18px;">{{page.subtitle}}</h2>
     {% endif %}
+    
+    {%- if page.tagline -%}
+    <i>{{page.tagline}}</i>
+    {%- endif %}
   </header>
+
 
   <div class="post-content">
     <div class="related-content">
         <h3>Related Posts</h3>
         <ul>
+          {%- assign n_posts = 0 -%}
           {%- for post in site.posts -%}
             {%- if post.recipes contains page.recipe_id -%}
+              {%- assign n_posts = n_posts | plus: 1 -%}
               <li><a href="{{post.url | relative_url}}">{{post.title}}</a></li>
             {%- endif -%}
           {%- endfor -%}
         </ul>
-    
+        {%- if n_posts == 0 -%}
+        <i>No posts yet!</i>
+        {% endif %}
     </div>
     
     <h3>Ingredients</h3>

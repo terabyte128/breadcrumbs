@@ -17,13 +17,21 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     <div class="related-content">
         <h3>Related Recipes</h3>
+
+        {%- assign n_recipes = 0 -%}
         <ul>
           {%- for my_page in site.pages -%}
             {%- if my_page.layout == 'recipe' and page.recipes contains my_page.recipe_id -%}
+              {%- assign n_recipes = n_recipes | plus: 1 -%}
               <li><a href="{{my_page.url | relative_url}}">{{my_page.title}}</a></li>
             {%- endif -%}
           {%- endfor -%}
-        </ul>      
+        </ul>     
+        {%- if n_recipes == 0 -%}
+        <i>
+          No recipes yet!
+        </i>
+        {%- endif -%}
     </div>
       
     {{ content }}

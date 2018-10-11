@@ -3,6 +3,7 @@ layout: recipe
 title: Lazy Sourdough
 subtitle: a.k.a. Fabulous Bread Made Easy
 recipe_id: lazy_sourdough
+tagline: "A simple, no-knead bread recipe with 10-hour fermentation."
 ingredients:
     - 1 cup sourdough starter
     - 3 cups flour (1 cup can be rye or other whole grain flour)
