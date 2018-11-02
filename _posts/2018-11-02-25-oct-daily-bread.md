@@ -2,7 +2,7 @@
 layout: "post"
 title: "25 Oct Bread"
 categories: ""
-date: "2018-11-02 16:55:36 +0100"
+date: "2018-10-25 16:55:36 +0100"
 ---
 
 From this point onwards, I won't be as detailed about my process; I'll post some photos and give just the necessary background information about each recipe.
