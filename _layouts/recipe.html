@@ -31,7 +31,13 @@ layout: default
         <i>No posts yet!</i>
         {% endif %}
     </div>
-    
+
+    {%- if page.glam_shot %}
+    <p>
+      <img src="{{page.glam_shot}}">
+    </p>
+    {%- endif -%}
+
     <h3>Ingredients</h3>
     <ul>
     {%- for ingredient in page.ingredients -%}
