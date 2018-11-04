@@ -8,7 +8,9 @@ ingredients:
   - 2 cups white flour
   - 1 cup whole wheat flour
   - 2 cups starter
-  - 1 heaping spoonful fine salt
+  - 1 spoonful fine salt
+  - 1 spoonful sesame seeds (optional)
+  - Semolina flour to prevent sticking when scoring loaf (optional; regular flour also works)
   - 2 spoonfuls olive oil
   - 1.5 cups water
 glam_shot: /assets/img/2018-11-02/IMG_3815.jpeg
@@ -26,8 +28,11 @@ First, make sure that your sourdough starter is bubbly and active. You'll need t
 4. Form a loaf and place into a covered proofing basket for 2 hours. It should expand significantly during this time. 
   - My loaf didn't quite double, but it did get larger. When it's soft and pillowy, it's ready to bake.
   - I don't have a proofing basket, but I find that a small colander lined with a floured dish towel works well.
-5. Start pre-heating the oven to 500F before the proof is finished. Place your pot in the oven so it's already hot when you transfer the bread to it.
-5. Score and bake the bread at 500F in a covered pot for 30 min followed by 15 min at 450F in an uncovered pot (or until your desired crustiness).
+5. Start pre-heating the oven to 500F before the proof is finished. Place your pot in the oven so it's already hot when you transfer the dough to it.
+8. Transfer the dough out of the proofing basket and onto a work surface covered lightly in semolina flour. (Regular flour is fine too, but I like the texture of the semolina).
+8. Lightly score the dough (I have a razor blade from a safety razor that works well for this). This is easiest if done quickly and decisively.
+5. Transfer the dough to the pot. This is also easiest if you do it quickly. I like to pick up the cutting board and slide the dough into the pot as fast as possible, then I shake the pot side to side a little if I need to realign the dough inside of it. Don't overthink it.
+9. Bake at 500F in a covered pot for 30 min followed by 15 min at 450F in an uncovered pot (or until your desired crustiness).
 
 
 ![](/assets/img/2018-11-02/IMG_3816.jpeg)
