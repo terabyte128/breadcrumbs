@@ -5,7 +5,7 @@ categories: ""
 date: "2018-10-25 16:55:36 +0100"
 ---
 
-From this point onwards, I won't be as detailed about my process; I'll post some photos and give just the necessary background information about each recipe.
+From this point onwards, I won't be as detailed about my process; I'll post some photos and give just the necessary background information about each recipe and whatever I tried that was different. The process is so individual that I don't think it's very useful for me to try and be prescriptivist about each tiny step. I will continue to include the details that I feel are necessary to differentiate the recipe from others that I have made.
 
 Today, I used:
 - 1 cup white flour
