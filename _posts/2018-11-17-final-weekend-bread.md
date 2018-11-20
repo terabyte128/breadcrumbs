@@ -5,11 +5,11 @@ categories: ""
 date: "2018-11-17 23:02:21 +0100"
 ---
 
-This was the last weekend of my study abroad program, so I decided to make one final loaf 😔 before we all went our separate ways. The bread on this trip was great, but the people were even better. I feel truly lucky to have participated in such an amazing experience with a wonderful group of new friends.
+This was the last weekend of my study abroad program, so I decided to make one final loaf 😔 before we all went our separate ways. The bread on this trip was great, but the people were even better. I feel truly lucky to have participated in such an [amazing experience](https://www.youtube.com/watch?v=94bdMSCdw20) with a wonderful group of new friends.
 
 <hr style="margin: 14px 0 14px 0">
 
-Anyways, here's how I made the bread.
+Anyways, this is a blog about bread, so let's talk about bread. 
 
 I took out a little piece of starter the night before and mixed it with about 2 cups of flour and 1 cup of water. In the morning it was nice and bubbly.
 
