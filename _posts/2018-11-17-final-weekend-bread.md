@@ -5,7 +5,7 @@ categories: ""
 date: "2018-11-17 23:02:21 +0100"
 ---
 
-This was the last weekend of my study abroad program, so I decided to make one final loaf 😔 before we all went our separate ways. The bread on this trip has been great, but the people were even better. I feel truly lucky to have participated in such an amazing experience with a wonderful group of friends.
+This was the last weekend of my study abroad program, so I decided to make one final loaf 😔 before we all went our separate ways. The bread on this trip was great, but the people were even better. I feel truly lucky to have participated in such an amazing experience with a wonderful group of new friends.
 
 <hr style="margin: 14px 0 14px 0">
 
